@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, React, Node, Express, CSS and HTML.
 - 📫 How to reach me: gilbertoantoniouk@gmail.com
 - 😄 Pronouns: he/him
