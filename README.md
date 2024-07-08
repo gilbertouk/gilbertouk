@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript, React, Node, Express, CSS and HTML
+- 🌱 I’m Full Stack Developer - JavaScript | TypeScript | NodeJs | Express | React | Postgres
 - 📫 How to reach me: gilbertoantoniouk@gmail.com
 - 😄 Pronouns: he/him
