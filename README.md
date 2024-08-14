@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m Full Stack Developer - JavaScript | TypeScript | NodeJs | Express | React | Postgres
+- 🌱 I’m Full Stack Developer - JavaScript | TypeScript | NodeJs | React
 - 📫 How to reach me: gilbertoantoniouk@gmail.com
 - 😄 Pronouns: he/him
